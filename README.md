@@ -28,7 +28,14 @@ michael.j.kantor@gmail.com
 * Built patient-facing Web applications for multiple health systems, using ASP.NET, C\#, SQL and Javascript 
 * Owned all customer interactions, requirements, development, documentation, and support 
 
-**Senior Software Developer, Pharmacy OneSource, 2012–2013**
+**Java EE Software Engineer,	Flexion Inc,	Apr–Sept 2014**
+
+ * Worked on cross-functional team using test-driven development in Java EE environment
+ * Designed and developed REST services
+ * Maintained and enhanced a large AngularJS online textbook reader application
+ * Created complex SQL queries for reporting
+
+**Senior Software Developer, Pharmacy OneSource, 2012–2014**
 
 * Supported and enhanced Java and C\# SaaS products representing $5 million annual revenue 
 * Coordinated technical aspects of contract work by offshore team
@@ -41,7 +48,6 @@ michael.j.kantor@gmail.com
 * Worked with Epic’s largest and most demanding clients
 
 ## **Skills and Technologies**
-
 * **Languages:**	C\#, Javascript, Java, SQL, Python 
 * **Technologies:** 	AWS S3, DynamoDB, Lambda, React, NodeJS, REST APIs OAuth 
 * **Other skills:**	Healthcare data integration, HIPAA compliance, problem-solving, Agile/Scrum, design for security and performance, leadership, mentoring, collaboration, teamwork, documentation
