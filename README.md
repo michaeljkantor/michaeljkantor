@@ -2,7 +2,7 @@
 # Michael J. Kantor
 
 Madison, Wisconsin
-michael.j.kantor@gmail.com
+michael.j.kantor [AT] gmail.com
 * Senior software engineer combining hands-on technical skills, strong leadership, and problem-solving expertise to design and deliver back-end systems and user-facing Web applications.
 * Eighteen years of experience in health tech.
 * I communicate effectively with technical and non-technical participants to align development efforts with business needs and deliver robust, targeted solutions.
