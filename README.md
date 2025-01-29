@@ -10,7 +10,7 @@ michael.j.kantor@gmail.com
 ## **Professional Experience**
 
 **Full Stack Software Engineer, Flexion, 2025-**
-* Building enterprise software for Federal clients
+* Building enterprise software for public service clients
 
 **Senior Software Engineer and Team Lead, Moxe Health, 2015–2024**
 
